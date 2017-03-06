@@ -14,8 +14,6 @@
   * @version 3.0  
   */
 
-use RadriaCore\Radria\Display;
-
   $disperr = new Display($this->getMessagePage()) ;
 
   $mydb_paramkeys = $_SESSION["mydb_paramkeys"];
